@@ -1,0 +1,49 @@
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container">
+    <a class="navbar-brand" href="#">
+      <i class="fas fa-book"></i> BookStore
+    </a>
+    
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/livros" routerLinkActive="active">
+            <i class="fas fa-book"></i> Livros
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/autores" routerLinkActive="active">
+            <i class="fas fa-user"></i> Autores
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/assuntos" routerLinkActive="active">
+            <i class="fas fa-tags"></i> Assuntos
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/relatorios" routerLinkActive="active">
+            <i class="fas fa-chart-bar"></i> Relatórios
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Main Content -->
+<div class="container-fluid mt-4">
+  <router-outlet></router-outlet>
+</div>
+
+<!-- Footer -->
+<footer class="bg-dark text-white text-center py-3 mt-5">
+  <div class="container">
+    <p>BookStore - Desafio TJRJ.</p>
+  </div>
+</footer>

@@ -1,0 +1,437 @@
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\appsettings.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Api.staticwebassets.endpoints.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Api.exe
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Api.deps.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Api.runtimeconfig.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Api.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Api.pdb
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Api.xml
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\AutoMapper.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Azure.Core.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Azure.Identity.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\FluentValidation.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Humanizer.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.CodeDom.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Memory.Data.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Application.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Domain.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.IoC.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.IoC.pdb
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Application.pdb
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Domain.pdb
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.pdb
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.csproj.AssemblyReference.cache
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.AssemblyInfoInputs.cache
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.AssemblyInfo.cs
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.csproj.CoreCompileInputs.cache
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\scopedcss\bundle\BookStore.Api.styles.css
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStor.AED629C8.Up2Date
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\refint\BookStore.Api.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.xml
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.pdb
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\BookStore.Api.genruntimeconfig.cache
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\ref\BookStore.Api.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\EPPlus.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\EPPlus.Interfaces.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\iTextSharp.LGPLv2.Core.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\SkiaSharp.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.staticwebassets.endpoints.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.exe
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.deps.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.runtimeconfig.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.xml
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\EPPlus.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\iTextSharp.LGPLv2.Core.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Application.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.IoC.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.IoC.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Application.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.csproj.AssemblyReference.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.AssemblyInfoInputs.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.AssemblyInfo.cs
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\scopedcss\bundle\BookStore.Api.styles.css
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStor.AED629C8.Up2Date
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\refint\BookStore.Api.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.xml
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.genruntimeconfig.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\obj\Debug\net8.0\ref\BookStore.Api.dll
+c:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Npgsql.dll
+c:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.staticwebassets.endpoints.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.exe
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.deps.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.runtimeconfig.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Api.xml
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\EPPlus.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\iTextSharp.LGPLv2.Core.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Application.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.IoC.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.IoC.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Application.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\bin\Debug\net8.0\BookStore.Infrastructure.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.csproj.AssemblyReference.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.AssemblyInfoInputs.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.AssemblyInfo.cs
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\scopedcss\bundle\BookStore.Api.styles.css
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStor.AED629C8.Up2Date
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\refint\BookStore.Api.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.xml
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\BookStore.Api.genruntimeconfig.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Api\obj\Debug\net8.0\ref\BookStore.Api.dll

@@ -1,0 +1,519 @@
+[
+  {
+    "ContainingType": "BookStore.Api.Controllers.AssuntoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Assunto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[BookStore.Application.DTOs.AssuntoDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AssuntoController",
+    "Method": "Create",
+    "RelativePath": "api/Assunto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createAssuntoDto",
+        "Type": "BookStore.Application.DTOs.CreateAssuntoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[BookStore.Application.DTOs.AssuntoDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AssuntoController",
+    "Method": "GetById",
+    "RelativePath": "api/Assunto/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[BookStore.Application.DTOs.AssuntoDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AssuntoController",
+    "Method": "Update",
+    "RelativePath": "api/Assunto/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateAssuntoDto",
+        "Type": "BookStore.Application.DTOs.CreateAssuntoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[BookStore.Application.DTOs.AssuntoDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AssuntoController",
+    "Method": "Delete",
+    "RelativePath": "api/Assunto/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AssuntoController",
+    "Method": "Search",
+    "RelativePath": "api/Assunto/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "termo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[BookStore.Application.DTOs.AssuntoDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AutorController",
+    "Method": "GetAll",
+    "RelativePath": "api/Autor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[BookStore.Application.DTOs.AutorDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AutorController",
+    "Method": "Create",
+    "RelativePath": "api/Autor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createAutorDto",
+        "Type": "BookStore.Application.DTOs.CreateAutorDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[BookStore.Application.DTOs.AutorDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AutorController",
+    "Method": "GetById",
+    "RelativePath": "api/Autor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[BookStore.Application.DTOs.AutorDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AutorController",
+    "Method": "Update",
+    "RelativePath": "api/Autor/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateAutorDto",
+        "Type": "BookStore.Application.DTOs.CreateAutorDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[BookStore.Application.DTOs.AutorDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AutorController",
+    "Method": "Delete",
+    "RelativePath": "api/Autor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.AutorController",
+    "Method": "Search",
+    "RelativePath": "api/Autor/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "termo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[BookStore.Application.DTOs.AutorDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.LivroController",
+    "Method": "GetAll",
+    "RelativePath": "api/Livro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[BookStore.Application.DTOs.LivroDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.LivroController",
+    "Method": "Create",
+    "RelativePath": "api/Livro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createLivroDto",
+        "Type": "BookStore.Application.DTOs.CreateLivroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[BookStore.Application.DTOs.LivroDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.LivroController",
+    "Method": "GetById",
+    "RelativePath": "api/Livro/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[BookStore.Application.DTOs.LivroDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.LivroController",
+    "Method": "Update",
+    "RelativePath": "api/Livro/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateLivroDto",
+        "Type": "BookStore.Application.DTOs.CreateLivroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[BookStore.Application.DTOs.LivroDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.LivroController",
+    "Method": "Delete",
+    "RelativePath": "api/Livro/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.LivroController",
+    "Method": "GetByAssunto",
+    "RelativePath": "api/Livro/assunto/{assuntoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assuntoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[BookStore.Application.DTOs.LivroDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.LivroController",
+    "Method": "GetByAutor",
+    "RelativePath": "api/Livro/autor/{autorId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "autorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[BookStore.Application.DTOs.LivroDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.LivroController",
+    "Method": "Search",
+    "RelativePath": "api/Livro/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "termo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[BookStore.Application.DTOs.LivroDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.RelatorioController",
+    "Method": "GetRelatorioLivrosPorAutor",
+    "RelativePath": "api/Relatorio/livros-por-autor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "BookStore.Application.Common.ApiResponse\u00601[[System.Collections.Generic.IEnumerable\u00601[[BookStore.Application.DTOs.RelatorioLivrosPorAutorDTO, BookStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookStore.Api.Controllers.RelatorioController",
+    "Method": "ExportarPdf",
+    "RelativePath": "api/Relatorio/livros-por-autor/pdf",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

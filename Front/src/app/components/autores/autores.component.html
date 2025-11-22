@@ -1,0 +1,127 @@
+<div class="container-fluid p-4">
+  <div class="row">
+    <div class="col-12">
+      <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2><i class="fas fa-user-edit"></i> Gerenciar Autores</h2>
+        <button class="btn btn-primary" (click)="openForm()">
+          <i class="fas fa-plus"></i> Novo Autor
+        </button>
+      </div>
+
+      <!-- Busca -->
+      <div class="row mb-3">
+        <div class="col-md-6">
+          <div class="input-group">
+            <input 
+              type="text" 
+              class="form-control" 
+              placeholder="Buscar autor..." 
+              [(ngModel)]="searchTerm"
+              (keyup.enter)="search()">
+            <button class="btn btn-outline-secondary" type="button" (click)="search()">
+              <i class="fas fa-search"></i>
+            </button>
+            <button class="btn btn-outline-secondary" type="button" (click)="searchTerm=''; loadAutores()">
+              <i class="fas fa-times"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Loading -->
+      <div *ngIf="loading" class="text-center py-4">
+        <div class="spinner-border" role="status">
+          <span class="visually-hidden">Carregando...</span>
+        </div>
+      </div>
+
+      <!-- Error -->
+      <div *ngIf="error" class="alert alert-danger" role="alert">
+        <i class="fas fa-exclamation-triangle"></i> {{ error }}
+      </div>
+
+
+
+      <!-- Lista de Autores -->
+      <div class="card" *ngIf="!loading">
+        <div class="card-body">
+          <div class="table-responsive">
+            <table class="table table-hover">
+              <thead class="table-light">
+                <tr>
+                  <th>ID</th>
+                  <th>Nome</th>
+                  <th class="text-center">Ações</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr *ngFor="let autor of autores">
+                  <td>{{ autor.codAu }}</td>
+                  <td>{{ autor.nome }}</td>
+                  <td class="text-center">
+                    <button class="btn btn-sm btn-outline-primary me-2" (click)="openForm(autor)">
+                      <i class="fas fa-edit"></i>
+                    </button>
+                    <button class="btn btn-sm btn-outline-danger" (click)="delete(autor.codAu)">
+                      <i class="fas fa-trash"></i>
+                    </button>
+                  </td>
+                </tr>
+                <tr *ngIf="autores.length === 0">
+                  <td colspan="3" class="text-center text-muted py-4">
+                    Nenhum autor encontrado
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal do Formulário -->
+<div class="modal" [class.show]="showForm" [style.display]="showForm ? 'block' : 'none'" *ngIf="showForm">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">
+          {{ editingId ? 'Editar Autor' : 'Novo Autor' }}
+        </h5>
+        <button type="button" class="btn-close" (click)="closeForm()"></button>
+      </div>
+      <div class="modal-body">
+        <div *ngIf="error" class="alert alert-danger mb-3" role="alert">
+          <i class="fas fa-exclamation-triangle"></i> {{ error }}
+        </div>
+        
+        <div *ngIf="successMessage" class="alert alert-success mb-3" role="alert">
+          <i class="fas fa-check-circle"></i> {{ successMessage }}
+        </div>
+        
+        <form (ngSubmit)="save()">
+          <div class="mb-3">
+            <label for="nome" class="form-label">Nome *</label>
+            <input 
+              type="text" 
+              class="form-control" 
+              id="nome"
+              [(ngModel)]="autorForm.nome"
+              name="nome"
+              maxlength="40"
+              required>
+            <div class="form-text">Máximo 40 caracteres</div>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" (click)="closeForm()">Cancelar</button>
+        <button type="button" class="btn btn-primary" (click)="save()" [disabled]="!autorForm.nome.trim()">
+          {{ editingId ? 'Atualizar' : 'Salvar' }}
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal-backdrop" *ngIf="showForm"></div>

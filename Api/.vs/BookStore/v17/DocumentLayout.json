@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.api\\controllers\\assuntocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|solutionrelative:bookstore.api\\controllers\\assuntocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|solutionrelative:bookstore.api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.api\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|solutionrelative:bookstore.api\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|solutionrelative:bookstore.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|solutionrelative:bookstore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|solutionrelative:bookstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\dtos\\tipovendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\tipovendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\interfaces\\repositories\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\repositories\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\interfaces\\repositories\\irelatoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\repositories\\irelatoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\interfaces\\repositories\\iassuntorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\repositories\\iassuntorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\interfaces\\services\\iassuntoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\services\\iassuntoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\interfaces\\services\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\services\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\interfaces\\services\\irelatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\services\\irelatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\mappings\\bookstoremappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\mappings\\bookstoremappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B972540-99AE-4F99-9BE2-E0A18AE400D8}|BookStore.Test\\BookStore.Test.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.test\\readme_tests.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9B972540-99AE-4F99-9BE2-E0A18AE400D8}|BookStore.Test\\BookStore.Test.csproj|solutionrelative:bookstore.test\\readme_tests.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B972540-99AE-4F99-9BE2-E0A18AE400D8}|BookStore.Test\\BookStore.Test.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.test\\bookstore.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B972540-99AE-4F99-9BE2-E0A18AE400D8}|BookStore.Test\\BookStore.Test.csproj|solutionrelative:bookstore.test\\bookstore.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554E4F4A-66B1-46F1-AA4B-8570F244A879}|BookStore.Infrastructure.IoC\\BookStore.Infrastructure.IoC.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.infrastructure.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554E4F4A-66B1-46F1-AA4B-8570F244A879}|BookStore.Infrastructure.IoC\\BookStore.Infrastructure.IoC.csproj|solutionrelative:bookstore.infrastructure.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B972540-99AE-4F99-9BE2-E0A18AE400D8}|BookStore.Test\\BookStore.Test.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.test\\unittests\\autorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B972540-99AE-4F99-9BE2-E0A18AE400D8}|BookStore.Test\\BookStore.Test.csproj|solutionrelative:bookstore.test\\unittests\\autorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B972540-99AE-4F99-9BE2-E0A18AE400D8}|BookStore.Test\\BookStore.Test.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.test\\unittests\\livroservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B972540-99AE-4F99-9BE2-E0A18AE400D8}|BookStore.Test\\BookStore.Test.csproj|solutionrelative:bookstore.test\\unittests\\livroservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|solutionrelative:bookstore.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|solutionrelative:bookstore.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\common\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\common\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\dtos\\createautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\createautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.application\\dtos\\relatoriolivrosporautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1B6C1F-C891-4920-9782-7CE7A112886A}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\relatoriolivrosporautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|c:\\users\\mcpes\\onedrive\\\u00E1rea de trabalho\\desafio\\src\\bookstore\\bookstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BookStore.Api\\BookStore.Api.csproj|solutionrelative:bookstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BookStore.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Program.cs",
+              "RelativeToolTip": "BookStore.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:56:59.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoVendaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\DTOs\\TipoVendaDTO.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\TipoVendaDTO.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\DTOs\\TipoVendaDTO.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\TipoVendaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:56:57.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Repositories\\IAutorRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\Repositories\\IAutorRepository.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Repositories\\IAutorRepository.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\Repositories\\IAutorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:56:55.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRelatorioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Repositories\\IRelatorioRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\Repositories\\IRelatorioRepository.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Repositories\\IRelatorioRepository.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\Repositories\\IRelatorioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:56:54.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookStore.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\appsettings.Development.json",
+              "RelativeToolTip": "BookStore.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T21:52:55.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "BookStore.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "BookStore.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:55:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelatorioController.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Controllers\\RelatorioController.cs",
+              "RelativeDocumentMoniker": "BookStore.Api\\Controllers\\RelatorioController.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Controllers\\RelatorioController.cs",
+              "RelativeToolTip": "BookStore.Api\\Controllers\\RelatorioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:55:36.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "BookStore.Api\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "BookStore.Api\\Controllers\\LivroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:55:37.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssuntoController.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Controllers\\AssuntoController.cs",
+              "RelativeDocumentMoniker": "BookStore.Api\\Controllers\\AssuntoController.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Controllers\\AssuntoController.cs",
+              "RelativeToolTip": "BookStore.Api\\Controllers\\AssuntoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:55:39.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAssuntoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Repositories\\IAssuntoRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\Repositories\\IAssuntoRepository.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Repositories\\IAssuntoRepository.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\Repositories\\IAssuntoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:56:54.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAssuntoService.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Services\\IAssuntoService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\Services\\IAssuntoService.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Services\\IAssuntoService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\Services\\IAssuntoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:56:52.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILivroService.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Services\\ILivroService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\Services\\ILivroService.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Services\\ILivroService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\Services\\ILivroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:56:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRelatorioService.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Services\\IRelatorioService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\Services\\IRelatorioService.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Interfaces\\Services\\IRelatorioService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\Services\\IRelatorioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:56:50.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookStoreMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Mappings\\BookStoreMappingProfile.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Mappings\\BookStoreMappingProfile.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Mappings\\BookStoreMappingProfile.cs",
+              "RelativeToolTip": "BookStore.Application\\Mappings\\BookStoreMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:56:43.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookStore.Test",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Test\\BookStore.Test.csproj",
+              "RelativeDocumentMoniker": "BookStore.Test\\BookStore.Test.csproj",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Test\\BookStore.Test.csproj",
+              "RelativeToolTip": "BookStore.Test\\BookStore.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T21:55:47.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Test\\UnitTests\\AutorServiceTests.cs",
+              "RelativeDocumentMoniker": "BookStore.Test\\UnitTests\\AutorServiceTests.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Test\\UnitTests\\AutorServiceTests.cs",
+              "RelativeToolTip": "BookStore.Test\\UnitTests\\AutorServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:55:44.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LivroServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Test\\UnitTests\\LivroServiceTests.cs",
+              "RelativeDocumentMoniker": "BookStore.Test\\UnitTests\\LivroServiceTests.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Test\\UnitTests\\LivroServiceTests.cs",
+              "RelativeToolTip": "BookStore.Test\\UnitTests\\LivroServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:53:16.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookStore.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookStore.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T21:55:40.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "BookStore.Api\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "BookStore.Api\\Controllers\\AutorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:55:38.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Infrastructure.IoC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure.IoC\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Infrastructure.IoC\\DependencyInjection.cs",
+              "RelativeToolTip": "BookStore.Infrastructure.IoC\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:51:51.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README_Tests.md",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Test\\README_Tests.md",
+              "RelativeDocumentMoniker": "BookStore.Test\\README_Tests.md",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Test\\README_Tests.md",
+              "RelativeToolTip": "BookStore.Test\\README_Tests.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-22T21:51:48.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Common\\ValidationResult.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Common\\ValidationResult.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Common\\ValidationResult.cs",
+              "RelativeToolTip": "BookStore.Application\\Common\\ValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:55:31.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "BookStore.Application\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:55:30.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateAutorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\DTOs\\CreateAutorDTO.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\CreateAutorDTO.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\DTOs\\CreateAutorDTO.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\CreateAutorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:55:29.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RelatorioLivrosPorAutorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\DTOs\\RelatorioLivrosPorAutorDTO.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\RelatorioLivrosPorAutorDTO.cs",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Application\\DTOs\\RelatorioLivrosPorAutorDTO.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\RelatorioLivrosPorAutorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:55:28.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStore.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mcpes\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\src\\BookStore\\BookStore.Api\\appsettings.json",
+              "RelativeToolTip": "BookStore.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T21:53:01.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

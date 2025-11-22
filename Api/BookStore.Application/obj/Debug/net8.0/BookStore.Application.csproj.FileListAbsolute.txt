@@ -1,0 +1,45 @@
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\bin\Debug\net8.0\BookStore.Application.deps.json
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\bin\Debug\net8.0\BookStore.Application.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\bin\Debug\net8.0\BookStore.Application.pdb
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\bin\Debug\net8.0\BookStore.Domain.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\bin\Debug\net8.0\BookStore.Domain.pdb
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.AssemblyReference.cache
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\obj\Debug\net8.0\BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfoInputs.cache
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfo.cs
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CoreCompileInputs.cache
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\obj\Debug\net8.0\BookStor.D70AE061.Up2Date
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\obj\Debug\net8.0\BookStore.Application.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
+c:\Users\thiag\Downloads\alfamais-services\alfamais-services\BookStoreNet8\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.deps.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.AssemblyReference.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfoInputs.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfo.cs
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\obj\Debug\net8.0\BookStor.D70AE061.Up2Date
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\BookStore\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.deps.json
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.AssemblyReference.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfoInputs.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfo.cs
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\obj\Debug\net8.0\BookStor.D70AE061.Up2Date
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
+C:\Users\mcpes\OneDrive\Área de Trabalho\Desafio\src\BookStore\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll
