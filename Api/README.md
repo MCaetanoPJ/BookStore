@@ -28,7 +28,6 @@ API REST desenvolvida em .NET 8 para gerenciamento de uma livraria, implementand
 
 ### Geração de Relatórios
 - **iTextSharp.LGPLv2.Core** - Geração de relatórios em PDF
-- **EPPlus 7.0.0** - Geração de relatórios em Excel
 
 ### Testes
 - **xUnit** - Framework de testes unitários
